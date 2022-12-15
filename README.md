@@ -22,7 +22,7 @@ Para iniciá-lo, siga os passos abaixo:
 
 ```bash
 # criar e ativar o ambiente virtual
-$ ppython3 -m venv .venv && source .venv/bin/activate
+$ python3 -m venv .venv && source .venv/bin/activate
 
 # instalar as dependências no ambiente virtual
 $ python3 -m pip install -r dev-requirements.txt
